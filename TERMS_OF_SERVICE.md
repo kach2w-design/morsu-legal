@@ -1,3 +1,6 @@
+---
+permalink: /TERMS_OF_SERVICE/
+---
 # Terms of Service
 
 **Last updated: 25 August 2026**
