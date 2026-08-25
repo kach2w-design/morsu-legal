@@ -47,13 +47,12 @@ differ, and a thick piece of meat cooks differently from a thin one. Where a
 recipe gives an internal temperature, use a thermometer and trust the
 thermometer over the clock. If something looks undercooked, it is undercooked.
 
-**Ingredient filtering is a convenience, not a medical safeguard.** Morsu can
-hide recipes containing ingredients you have excluded, and that filtering may be
-incomplete or wrong. Ingredients vary between brands, recipes get updated, and
-cross-contamination happens — in your kitchen and in ours.
+**Morsu does not filter for allergens and makes no allergy claims.** Recipes
+list what goes in them and nothing more. Ingredients vary between brands, and
+cross-contamination happens in any kitchen.
 
-> **If you have a serious allergy, read every label yourself, every time. Do not
-> rely on this app to keep you safe.**
+> **If you have a food allergy, read every label yourself, every time, and check
+> every recipe against your own knowledge of what you can eat.**
 
 **Children must be supervised.** Morsu is designed to be followed without
 reading, which means a child may well be able to follow it. That does not mean a
@@ -167,6 +166,5 @@ consumer law gives you the right to bring a claim where you live.
 ---
 
 *Drafted from an inspection of what the app actually does. It is not legal
-advice. The food-safety section and the ingredient-filtering disclaimer are
-where the real exposure sits — have a lawyer read at least those before
-publishing.*
+advice. The food-safety section is where the real exposure sits — have a lawyer
+read at least that before publishing.*

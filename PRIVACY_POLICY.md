@@ -18,8 +18,7 @@ United States. For anything in this policy, write to **contactmorsu@gmail.com**.
 ## The short version
 
 - You need an account, so we hold your email address.
-- We store what you save, what you cook, and any ingredients you tell us to
-  avoid.
+- We store what you save and what you cook.
 - If you photograph something you cooked, we keep that photo.
 - **There is no advertising in Morsu and no third-party tracking of any
   kind.** No ad networks, no analytics companies, nobody watching you but us.
@@ -37,13 +36,6 @@ in with Google or Apple we receive your email from them and never see a
 password.
 
 **A username, a display name, and which chef avatar you picked.**
-
-**Ingredients you have asked Morsu to avoid** — milk, egg, peanut, tree nut,
-wheat, soy, fish, shellfish, sesame, or anything else you exclude.
-
-> This is health information about you and we treat it as sensitive. It is used
-> for one thing: filtering recipes and warning you. It is not used to profile
-> you and it is not shared with anyone.
 
 **Photographs of food you have cooked**, if you take them, along with any note
 or rating you leave on that cook.
@@ -66,8 +58,8 @@ tied to your account.
 
 ### Things we do not collect
 
-We do not collect your location, contacts, calendar, or any health data from
-your phone beyond the ingredients you choose to exclude. We do not track you
+We do not collect your location, contacts, calendar, or any health data. We do
+not track you
 across other apps or websites, we do not build advertising profiles, and we do
 not sell or rent personal information.
 
@@ -87,14 +79,13 @@ audio.**
 |---|---|
 | Email, password | So you can sign in, and recover the account if you forget |
 | Username, display name, avatar | So the app knows what to call you |
-| Ingredients you avoid | To filter recipes and warn you |
 | Saved recipes | So they are there next time |
 | Cooking history | To resume a recipe, and to show what you have made |
 | Photos and notes | Because you chose to keep them |
 | Product events | To find which parts of the app are failing people |
 
-Photographs and ingredient exclusions are optional, and we rely on your choosing
-to use them. The rest is what running the service requires.
+Photographs are optional, and we rely on your choosing to use them. The rest is
+what running the service requires.
 
 ---
 
@@ -131,7 +122,7 @@ For as long as your account exists.
 
 **Delete your account at Settings → Danger zone → Delete account.** That removes
 your profile, your saved recipes, your cooking history, your photographs, your
-ingredient exclusions, your progress, and every report you have filed.
+progress, and every report you have filed.
 
 Deletion is permanent and we cannot undo it. Backups are overwritten on a
 rolling basis and are fully cleared within 30 days.
@@ -147,8 +138,7 @@ you.
 
 **Delete it.** Settings → Danger zone → Delete account.
 
-**Turn things off.** Photographs and ingredient exclusions are optional.
-Microphone permission can be revoked in your phone's settings and the app
+**Turn things off.** Photographs are optional. Microphone permission can be revoked in your phone's settings and the app
 carries on working without it — the on-screen controls do everything the voice
 commands do.
 
@@ -214,5 +204,4 @@ to you, we will tell you in the app before it takes effect.
 
 *Written from an inspection of what the application actually stores. It is
 accurate as of the date above, but it is not legal advice — have a lawyer read
-it before publishing, particularly the children's section and the handling of
-ingredient exclusions as health data.*
+it before publishing, particularly the children's section.*
