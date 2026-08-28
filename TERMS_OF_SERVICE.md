@@ -2,7 +2,8 @@
 
 **Last updated: 26 August 2026**
 
-These terms are the agreement between you and **Melvin Chau**, 210 Gaven Street,
+These terms are the agreement between you and **Melvin Chau**, 5432 Geary Blvd
+Unit #547
 San Francisco, CA 94134, United States ("we", "us"), about your use of the Morsu
 app.
 
@@ -160,7 +161,7 @@ consumer law gives you the right to bring a claim where you live.
 ## 13. Contact
 
 **Melvin Chau**
-210 Gaven Street, San Francisco, CA 94134, United States
+5432 Geary Blvd Unit #547 San Francisco, CA 94134, United States
 **contactmorsu@gmail.com**
 
 ---
