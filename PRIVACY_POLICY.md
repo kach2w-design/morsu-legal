@@ -10,7 +10,7 @@ This policy explains what we hold, why, and what you can do about it. It was
 written by going through what the app actually stores rather than from a
 template.
 
-Morsu is operated by **Melvin Chau**, 5432 Geary Blvd Unit #547 San Francisco, CA 94121
+Morsu is operated by **Melvin Chau**, 5432 Geary Blvd, Unit #547, San Francisco, CA 94121,
 United States. For anything in this policy, write to **contactmorsu@gmail.com**.
 
 ---
@@ -213,7 +213,7 @@ to you, we will tell you in the app before it takes effect.
 ## Contact
 
 **Melvin Chau**
-5432 Geary Blvd Unit #547 San Francisco, CA 94121
+5432 Geary Blvd, Unit #547, San Francisco, CA 94121, United States
 **contactmorsu@gmail.com**
 
 ---
